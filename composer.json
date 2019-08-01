@@ -97,7 +97,8 @@
         "liuggio/fastest": "^1.6",
         "snc/redis-bundle": "^3.0",
         "predis/predis": "^1.1.1",
-        "franzl/studio": "*"
+        "franzl/studio": "*",
+        "deployer/recipes": "^6.2"
     },
     "conflict": {
         "doctrine/dbal": "2.7.0",
